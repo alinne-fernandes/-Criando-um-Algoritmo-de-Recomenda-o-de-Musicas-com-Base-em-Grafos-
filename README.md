@@ -21,7 +21,7 @@ O Queen foi escolhido como estudo de caso, utilizando a trajetória de Freddie M
 - Desenvolver uma lógica de recomendação musical baseada nas preferências dos usuários.
 - Demonstrar como bancos de dados em grafos podem ser utilizados em sistemas de recomendação.
 
-🧩 **Modelagem do grafo**
+🧩 **Modelagem**
 
 O modelo proposto contempla os seguintes nós:
 
